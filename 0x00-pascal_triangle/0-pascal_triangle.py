@@ -1,16 +1,16 @@
 #!/usr/bin/python3
 """ 0-pascal_triangle.py """
 
+
 def pascal_triangle(n):
     """
     Returns a list of lists of integers representing Pascal's triangle of n.
-
     Args:
         n (int): The number of rows to generate in Pascal's triangle.
-
     Returns:
         A list of lists of integers representing Pascal's triangle of n.
     """
+
     if n <= 0:
         return []  # Return empty list for n <= 0
 
