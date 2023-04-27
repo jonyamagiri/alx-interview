@@ -1,5 +1,3 @@
-# 0x01-lockboxes
-
 # 0x01. Lockboxes
 
 > This repository contains the tasks for `Lockboxes` project and a description of what each program or function does:
