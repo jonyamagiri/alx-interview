@@ -9,8 +9,11 @@
 - [x] Task: [0x01-lockboxes](https://github.com/jonyamagiri/alx-interview/tree/main/0x01-lockboxes)
 - [x] Task: [0x02-minimum_operations](https://github.com/jonyamagiri/alx-interview/tree/main/0x02-minimum_operations)
 - [x] Task: [0x03-log_parsing](https://github.com/jonyamagiri/alx-interview/tree/main/0x03-log_parsing)
-
+- [x] Task: [0x04-utf8_validation](https://github.com/jonyamagiri/alx-interview/tree/main/0x04-utf8_validation)
+- [x] Task: []()
+- [x] Task: []()
 
 ___
+
 
 
