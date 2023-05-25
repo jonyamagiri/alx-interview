@@ -37,8 +37,6 @@ def nqueens(n):
 if __name__ == '__main__':
     if len(sys.argv) != 2:
         print("Usage: nqueens N")
-        print("""Usage: ./0-nqueens.py N
-        # where N must be an integer greater or equal to 4 """)
         exit(1)
     try:
         n = int(sys.argv[1])
