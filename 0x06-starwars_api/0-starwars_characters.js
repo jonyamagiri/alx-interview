@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// script that prints all characters in order of a given Star Wars movie
+// script that prints all characters in order for a given Star Wars movie
 
 const request = require('request');
 const API_URL = 'https://swapi-api.alx-tools.com/api';
