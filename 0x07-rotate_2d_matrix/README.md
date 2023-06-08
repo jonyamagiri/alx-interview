@@ -28,8 +28,7 @@
         [9, 6, 3]]
         ubuntu$
     ```
-    * You don’t have to print the solutions in a specific order
-- [x] You are only allowed to import the `sys` module
 
+---
 
 
