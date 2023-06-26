@@ -15,6 +15,8 @@
 - [x] Task: [0x07-rotate_2d_matrix](https://github.com/jonyamagiri/alx-interview/tree/main/0x07-rotate_2d_matrix)
 - [x] Task: [0x08-making_change](https://github.com/jonyamagiri/alx-interview/tree/main/0x08-making_change)
 - [x] Task: [0x09-island_perimeter](https://github.com/jonyamagiri/alx-interview/tree/main/0x09-island_perimeter)
+- [x] Task: [0x0A-primegame](https://github.com/jonyamagiri/alx-interview/tree/main/0x0A-primegame)
+- [x] Task: []()
 - [x] Task: []()
 
 ___
